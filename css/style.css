@@ -1,0 +1,380 @@
+nav {
+    left: 140px;
+    width: 220px;
+}
+li.nav-item1>a {
+    position: absolute;
+    width: 371px;
+    height: 70px;
+    left: 389px;
+    top: 7px;
+
+
+    font-style: bold;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+
+    color: #FFFFFF;
+}
+
+li.nav-item2>a {
+    position: absolute;
+    width: 371px;
+    height: 70px;
+    left: 537px;
+    top: 7px;
+
+    font-style: bold;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+
+    color: #FFFFFF;
+}
+
+li.nav-item3>a {
+    position: absolute;
+    width: 371px;
+    height: 70px;
+    left: 698px;
+    top: 7px;
+    
+    font-style: bold;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+
+    color: #FFFFFF;
+}
+
+li.nav-item4>a {
+    position: absolute;
+    width: 371px;
+    height: 70px;
+    left: 857px;
+    top: 7px;
+    
+    font-style: bold;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+
+    color: #FFFFFF;
+}
+
+li.nav-item5>a {
+    position: absolute;
+    width: 371px;
+    height: 70px;
+    left: 978px;
+    top: 7px;
+    
+    font-style: bold;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+
+    color: #FFFFFF;
+}
+
+li.nav-item6>a {
+    position: absolute;
+    width: 250px;
+    height: 70px;
+    left: 1151px;
+    top: 7px;
+    
+    font-style: bold;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+
+    color: #FFFFFF;
+}
+
+a.navbar-brand>img {
+    position: absolute;
+    width: 134px;
+    height: 70px;
+    left: 117px;
+    top: 45px;
+}
+
+img.vaporpng {
+    position: relative;
+    overflow: hidden;
+    margin-top: 284px;
+    margin-left: 200px;
+    top: -80px;
+    left: 270px;
+    width: 900px;
+    z-index: 1;
+
+}
+
+img.airmax {
+    position: relative;
+    overflow: hidden;
+    margin-top: 190px;
+    margin-left: 200px;
+    top: -90px;
+    left: 120px;
+    width: 1200px;
+    z-index: 1;
+
+}
+
+img.vistacape {
+    position: relative;
+    overflow: hidden;
+    margin-top: 110px;
+    margin-left: 200px;
+    top: -40px;
+    left: 120px;
+    width: 1200px;
+    z-index: 1;
+
+}
+
+p.vapor {
+    position: absolute;
+    width: 1285px;
+    height: 698px;
+    left: 365px;
+    top: 140px;
+
+
+    
+    font-style: normal;
+    font-weight: 700;
+    font-size: 197px;
+    line-height: 259px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.015em;
+    
+
+    color: #3B9CFA;
+
+}
+
+p.airmax {
+    position: absolute;
+    width: 1285px;
+    height: 698px;
+    left: 365px;
+    top: 140px;
+
+
+    
+    font-style: normal;
+    font-weight: 700;
+    font-size: 197px;
+    line-height: 259px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.015em;
+    word-spacing: 170px;
+    
+
+    color: #FF3243;
+
+}
+
+p.vistacape {
+    position: absolute;
+    width: 1285px;
+    height: 698px;
+    left: 365px;
+    top: 140px;
+
+
+    
+    font-style: normal;
+    font-weight: 700;
+    font-size: 197px;
+    line-height: 259px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.015em;
+    
+
+    color: #FFB925;
+
+}
+
+p.nikeair {
+    position: absolute;
+    width: 371px;
+    height: 146px;
+    left: 320px;
+    top: 275px;
+
+    /* NIKE */
+
+
+    font-style: italic;
+    font-weight: 750;
+    font-size: 36px;
+    line-height: 43px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.09em;
+
+    color: #FFFFFF;
+}
+
+p.nikeairmax {
+    position: absolute;
+    width: 371px;
+    height: 146px;
+    left: 320px;
+    top: 275px;
+
+    /* NIKE */
+
+
+    font-style: italic;
+    font-weight: 750;
+    font-size: 36px;
+    line-height: 43px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.09em;
+
+    color: #FFFFFF;
+}
+
+p.number {
+    position: absolute;
+    width: 70px;
+    height: 146px;
+    left: 1487px;
+    top: 600px;
+
+    font-style: italic;
+    font-weight: 750;
+    font-size: 36px;
+    line-height: 43px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.09em;
+
+    color: #FFFFFF;
+}
+
+p.est {
+    position: absolute;
+    width: 371px;
+    height: 146px;
+    left: 1529px;
+    top: 937px;
+
+    
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.circle {
+    position: absolute;
+    width: 1585px;
+    height: 1585px;
+    
+    -webkit-border-radius: 1080px;
+      -moz-border-radius: 1080px;
+      border-radius: 1080px;
+    left: 150px;
+    top: -253px;
+    background: rgba(103, 182, 255, 0.4);
+filter: blur(144px);
+}
+
+.circle1 {
+    position: absolute;
+    width: 1585px;
+    height: 1585px;
+    
+    -webkit-border-radius: 1080px;
+      -moz-border-radius: 1080px;
+      border-radius: 1080px;
+    left: 150px;
+    top: -253px;
+    background: #FF4B5C;
+
+    filter: blur(144px);
+}
+
+.circle2 {
+    position: absolute;
+    width: 1585px;
+    height: 1585px;
+    
+    -webkit-border-radius: 1080px;
+      -moz-border-radius: 1080px;
+      border-radius: 1080px;
+    left: 150px;
+    top: -253px;
+    background: #FFC547;
+    filter: blur(144px);
+}
+
+img.korzina {
+    position: absolute;
+    left: 92.24%;
+    right: 6.2%;
+    top: 6.57%;
+    bottom: 91.06%;
+    
+}
+
+img.heart {
+    position: absolute;
+    left: 89.87%;
+    right: 8.78%;
+    top: 6.57%;
+    bottom: 91.2%;
+}
+
+
+.buttons>button {
+    margin-top: 257px;
+    margin-bottom: 257px;
+}
